@@ -17,9 +17,11 @@ p{
 }
 .header-left{
   flex-basis:50%;
+  margin:50px;
 }
 .header-right{
   flex-basis:50%;
+  margin:50px;
 }
 .header-right img{
   max-width:350px;
